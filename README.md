@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabio</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on **a blog web-site using Express, NodeJs**
-
-- 🌱 I’m currently learning **REST APIs, Express, Node.Js, Angular, MySql**
+- 🌱 I’m currently learning **REST APIs, Express, Node.Js, React, MySql**
 
 - 📫 How to reach me **fabio_d89@hotmail.com**
 
