@@ -4,3 +4,4 @@
 - I have 3 years of professional experience coding in Powershell where I've created tools to automate various tasks
 - I’m currently learning Web Development (The Odin Project curriculum)
 - How to reach me **fabio_d89@hotmail.com** or **https://www.linkedin.com/in/fabio-de-oliveira-43838366/**
+- Link to projects **http://fabio-website.herokuapp.com/projects**
