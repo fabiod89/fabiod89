@@ -11,8 +11,6 @@
 <h1 align="center">Projects</h1>
 
 <ul style=list-style: "none">
-  <li>
-    <h3>Project Name</h3>
-    <img src="https://github.com/fabiod89/fabiod89/blob/main/Capture.PNG" width=150px height=auto>
-  </li>
+  *Project Name</h3>
+  *<img src="https://github.com/fabiod89/fabiod89/blob/main/Capture.PNG" width=150px height=auto>
 </ul>
