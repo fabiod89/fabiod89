@@ -10,7 +10,7 @@
 
 <h1 align="center">Projects</h1>
 
-<ul list-style-type: "none">
+<ul list-style-type="none">
   <li>
     <h3>Project Name</h3>
     <img src="https://github.com/fabiod89/fabiod89/blob/main/Capture.PNG" width=150px height=auto>
