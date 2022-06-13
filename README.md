@@ -10,5 +10,10 @@
 
 <h1 align="center">Projects</h1>
 
-<img src="https://github.com/fabiod89/fabiod89/blob/main/Capture.PNG" width=150px height=auto>
+<ul>
+  <li>
+    <img src="https://github.com/fabiod89/fabiod89/blob/main/Capture.PNG" width=150px height=auto>
+    <h3>Project Name</h3>
+  </li>
+
 
