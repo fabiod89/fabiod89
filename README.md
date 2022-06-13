@@ -5,5 +5,5 @@
 - I’m currently learning Web Development (The Odin Project curriculum)
 - How to reach me **fabio_d89@hotmail.com** or **https://www.linkedin.com/in/fabio-de-oliveira-43838366/**
 
-<img src="capture.png">
+<img src="/capture.png">
 
