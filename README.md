@@ -7,7 +7,7 @@
   <li>How to reach me **fabio_d89@hotmail.com** or **https://www.linkedin.com/in/fabio-de-oliveira-43838366/**</li>
 </ul>
 
-<h3 align="center">Projects</h3>
+<h1 align="center">Projects</h1>
 
 <img src="https://github.com/fabiod89/fabiod89/blob/main/Capture.PNG" width=150px height=auto>
 
