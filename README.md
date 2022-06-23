@@ -10,6 +10,7 @@
 
 <h1 align="center">Projects</h1>
 
+
 | "Mock" Landing Page   | Character |
 | ---      | ---        |
 | <a href="https://github.com/fabiod89/odin-landing-page"><img src="images/landing-page.PNG" width="500" height="auto" ></a>  | `         |
