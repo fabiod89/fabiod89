@@ -12,6 +12,6 @@
 
 | "Mock" Landing Page   | Character |
 | ---      | ---        |
-| <a href="https://fabiod89.github.io/Rock-Paper-Scissors/"><img src="images/landing-page.PNG" width="500" height="auto" ></a>  | `         |
-| <a href="https://fabiod89.github.io/Rock-Paper-Scissors/">Live</a> - <a href="https://github.com/fabiod89/Rock-Paper-Scissors">Source</a>          | \|        |
-| Technology: HTML, CSS       | \|        |
+| <a href="https://github.com/fabiod89/odin-landing-page"><img src="images/landing-page.PNG" width="500" height="auto" ></a>  | `         |
+| <a href="https://fabiod89.github.io/odin-landing-page/">Live</a> - <a href="https://github.com/fabiod89/odin-landing-page">Source</a>          | \|        |
+| Technology Used: HTML, CSS       | \|        |
