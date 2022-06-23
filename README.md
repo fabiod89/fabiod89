@@ -9,3 +9,8 @@
 <br>
 
 <h1 align="center">Projects</h1>
+
+| "Mock" Landing Page  | Character |
+| ---      | ---       |
+| <img>  | `         |
+| Description     | \|        |
