@@ -17,7 +17,7 @@
 | Technology Used: HTML, CSS       | Technology Used: HTML, CSS, Javascript       |
 | <p>A simple landing page demonstrating</p><p>HTML/CSS Alignment/flexbox concepts </p>| <p>A game of Rock Paper Scissors</p><p>inspired by Final Fantasy 1 NES </p>     |
 
-| Automate Active Directory Accounts         | Title         |
+| Automate Active Directory Accounts         | To Do List         |
 | ------------- | ------------- |
 | <a href="https://github.com/fabiod89/Create_AD_Accounts_GUI"><img src="images/ad_accounts.png" width="500" height="auto" ></a>         | <a href="https://github.com/fabiod89/Create_AD_Accounts_GUI"><img src="images/to-do-list.PNG" width="500" height="auto" ></a>         |
 | <a href="https://github.com/fabiod89/To-Do-List">Source</a>     | <a href="https://enigmatic-dawn-65343.herokuapp.com/">Live</a> - <a href="https://github.com/fabiod89/odin-landing-page">Source</a>  |
