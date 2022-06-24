@@ -17,8 +17,8 @@
 | Technology Used: HTML, CSS       | Technology Used: HTML, CSS, Javascript       |
 | <p>A simple landing page demonstrating</p><p>HTML/CSS Alignment/flexbox concepts </p>| <p>A game of Rock Paper Scissors</p><p>inspired by Final Fantasy 1 NES </p>     |
 
-| Title         | Title         |
+| Automate Active Directory Accounts         | Title         |
 | ------------- | ------------- |
-| Image         | Image         |
-| Tech Used     | Tech Used  |
-| Desc          | Desc  |
+| <a href="https://github.com/fabiod89/Create_AD_Accounts_GUI"><img src="images/ad_accounts.png" width="500" height="auto" ></a>         | Image         |
+| Technology Used: Powershell, WPF Forms     | Tech Used  |
+| <p>A GUI based application used to</p> <p>automate creation of multiple AD accounts</p>          | Desc  |
