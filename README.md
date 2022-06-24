@@ -15,4 +15,10 @@
 | <a href="https://github.com/fabiod89/odin-landing-page"><img src="images/landing-page.PNG" width="500" height="auto" ></a>  | <a href="https://github.com/fabiod89/odin-landing-page"><img src="images/rock-paper-scissors.PNG" width="500" height="auto" ></a>         |
 | <a href="https://fabiod89.github.io/odin-landing-page/">Live</a> - <a href="https://github.com/fabiod89/odin-landing-page">Source</a>          | <a href="https://fabiod89.github.io/Rock-Paper-Scissors//">Live</a> - <a href="https://github.com/fabiod89/Rock-Paper-Scissors">Source</a>      |
 | Technology Used: HTML, CSS       | Technology Used: HTML, CSS, Javascript       |
-| <p>A simple landing page demonstrating</p><p>HTML/CSS Alignment/flexbox concepts </p>| <p>A game of Rock Paper Scissors</p><p>inspired by Final Fantasy 1 NES </p>        |
+| <p>A simple landing page demonstrating</p><p>HTML/CSS Alignment/flexbox concepts </p>| <p>A game of Rock Paper Scissors</p><p>inspired by Final Fantasy 1 NES </p>     |
+
+| Title         | Title         |
+| ------------- | ------------- |
+| Image         | Image         |
+| Tech Used     | Tech Used  |
+| Desc          | Desc  |
