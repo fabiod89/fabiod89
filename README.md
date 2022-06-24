@@ -12,7 +12,7 @@
 
 | "Mock" Landing Page   | Character |
 | ---      | ---        |
-| <a href="https://github.com/fabiod89/odin-landing-page"><img src="images/landing-page.PNG" width="500" height="auto" ></a>  | `         |
-| <a href="https://fabiod89.github.io/odin-landing-page/">Live</a> - <a href="https://github.com/fabiod89/odin-landing-page">Source</a>          | \|        |
-| Technology Used: HTML, CSS       | \|        |
-| <p>A simple landing page demonstrating</p><p>HTML/CSS Alignment/flexbox concepts </p>| \|        |
+| <a href="https://github.com/fabiod89/odin-landing-page"><img src="images/landing-page.PNG" width="500" height="auto" ></a>  | <a href="https://github.com/fabiod89/odin-landing-page"><img src="images/rock-paper-scissors.PNG" width="500" height="auto" ></a>         |
+| <a href="https://fabiod89.github.io/odin-landing-page/">Live</a> - <a href="https://github.com/fabiod89/odin-landing-page">Source</a>          | test      |
+| Technology Used: HTML, CSS       | test       |
+| <p>A simple landing page demonstrating</p><p>HTML/CSS Alignment/flexbox concepts </p>| test        |
