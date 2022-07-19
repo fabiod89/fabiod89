@@ -17,9 +17,9 @@
 | Technology Used: HTML, CSS       | Technology Used: HTML, CSS, Javascript       |
 | <p>A simple landing page demonstrating</p><p>HTML/CSS Alignment/flexbox concepts </p>| <p>A game of Rock Paper Scissors</p><p>inspired by Final Fantasy 1 NES </p>     |
 
-| Automate Active Directory Accounts         | To Do List         |
+| Paint Web App         | To Do List         |
 | ------------- | ------------- |
-| <a href="https://github.com/fabiod89/Create_AD_Accounts_GUI"><img src="images/ad_accounts.png" width="500" height="auto" ></a>         | <a href="https://github.com/fabiod89/Create_AD_Accounts_GUI"><img src="images/to-do-list.PNG" width="500" height="auto" ></a>         |
+| <a href="https://github.com/fabiod89/paint-app"><img src="images/paint-app.png" width="500" height="auto" ></a> | <a href="https://github.com/fabiod89/paint-app"><img src="images/to-do-list.PNG" width="500" height="auto" ></a>         |
 | <a href="https://github.com/fabiod89/To-Do-List">Source</a>     | <a href="https://enigmatic-dawn-65343.herokuapp.com/">Live</a> - <a href="https://github.com/fabiod89/odin-landing-page">Source</a>  |
 | Technology Used: Powershell, WPF Forms     | Technology Used: HTML,CSS, Javascript, Node.JS, EJS  |
 | <p>A GUI based application used to</p> <p>automate creation of multiple AD accounts</p>          | A simple To-Do List web application  |
