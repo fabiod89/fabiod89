@@ -15,11 +15,4 @@
 | <a href="https://github.com/fabiod89/odin-landing-page"><img src="images/landing-page.PNG" width="500" height="auto" ></a>  | <a href="https://github.com/fabiod89/Rock-Paper-Scissors"><img src="images/rock-paper-scissors.PNG" width="500" height="auto" ></a>         |
 | <a href="https://fabiod89.github.io/odin-landing-page/">Live</a> - <a href="https://github.com/fabiod89/odin-landing-page">Source</a>          | <a href="https://fabiod89.github.io/Rock-Paper-Scissors//">Live</a> - <a href="https://github.com/fabiod89/Rock-Paper-Scissors">Source</a>      |
 | Technology Used: HTML, CSS       | Technology Used: HTML, CSS, Javascript       |
-| <p>A simple landing page demonstrating</p><p>HTML/CSS Alignment/flexbox concepts </p>| <p>A game of Rock Paper Scissors</p><p>inspired by Final Fantasy 1 NES </p>     |
-https://github.com/fabiod89/To-Do-List
-| Paint Web App         | To Do List         |
-| ------------- | ------------- |
-| <a href="https://github.com/fabiod89/paint-app"><img src="images/paint-app.png" width="500" height="auto" ></a> | <a href="https://github.com/fabiod89/To-Do-List"><img src="images/to-do-list.PNG" width="500" height="auto" ></a>         |
-| <a href="https://github.com/fabiod89/To-Do-List">Source</a>     | <a href="https://enigmatic-dawn-65343.herokuapp.com/">Live</a> - <a href="https://github.com/fabiod89/To-Do-List">Source</a>  |
-| Technology Used: Powershell, WPF Forms     | Technology Used: HTML,CSS, Javascript, Node.JS, EJS  |
-| <p>A GUI based application used to</p> <p>automate creation of multiple AD accounts</p>          | A simple To-Do List web application  |
+| <p>A simple landing page demonstrating</p><p>HTML/CSS Alignment/flexbox concepts </p>| <p>A game of Rock Paper Scissors</p><p>inspired by Final Fantasy 1 NES </p>     
