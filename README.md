@@ -1,12 +1,2 @@
-<h1 align="center">Hi, I'm Fabio</h1>
-<h3 align="center">A passionate developer</h3>
-
-<ul>
-  <li>I have 3 years of professional experience coding in Powershell where I've created tools to automate various tasks and save my orginization time and cost.</li>
-  <li>I’m currently learning Web Development (The Odin Project curriculum)</li>
-  <li>How to reach me fabio_d89@hotmail.com or find me on LinkedIn https://www.linkedin.com/in/fabio-de-oliveira-43838366/**</li>
-</ul>
-<br>
-
-<h1 align="center">Projects</h1>
-
+Hi there! I'm Fabio, a committed IT professional who is passionate about crafting innovative solutions. With a decade of experience in IT, I have worked in front-line support and specialized in automation, using Powershell and other Macro related tools to develop tools that automate various tasks and save my organization time and money. As a hobby, I enjoy working on projects related to web development, game development, and experimenting with AI related technologies. If you'd like to connect with me, you can reach me at fabio_d89@hotmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/fabio-de-oliveira-43838366/.
+Here are some of my projects for you to check out:
